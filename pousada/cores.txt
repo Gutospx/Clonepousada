@@ -1,0 +1,6 @@
+background menu = #v0071bc
+background suite 1 = #ecd8bc
+background suite 2 = #eae1d6
+background suite 3 = #ecd8bc
+
+fonte = Verdana
